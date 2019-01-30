@@ -20,6 +20,7 @@ title: software support agreement
 - response times
 - resolution times
 - escalation times
+- define unit of time, e.g. Business Hour
 - repeat breach termination right
   - refunds
 - severity classes
