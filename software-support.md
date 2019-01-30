@@ -2,11 +2,6 @@
 title: Software Support Agreement
 ---
 (Work in Progress)
-- nondisclosure
-  - flow-down to personnel
-  - support tech qualifications
-    - background checks
-    - technical acumen
 - software covered
 - versions covered
 - business hours
@@ -30,3 +25,8 @@ title: Software Support Agreement
   - refunds
 - language(s)
 - support tech qualifications
+- nondisclosure
+  - flow-down to personnel
+  - support tech qualifications
+    - background checks
+    - technical acumen
