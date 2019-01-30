@@ -18,6 +18,7 @@ title: Software Support Agreement
     - refunds
   - severity classes
     - who classifies?
+    - can support reclassify?
 - escalation process
 - credits
   - schedule
