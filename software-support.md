@@ -26,6 +26,8 @@ title: Software Support Agreement
   - refunds
 - language(s)
 - support tech qualifications
+- dedicated personnel?
+  - what does that mean?
 - nondisclosure
   - flow-down to personnel
   - support tech qualifications
