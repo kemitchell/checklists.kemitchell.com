@@ -1,3 +1,7 @@
+---
+title: arbitration provision
+---
+
 - location
 - language
 - organization

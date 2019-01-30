@@ -1,3 +1,7 @@
+---
+title: copyright license
+---
+
 which copyrights
 term
 territory
