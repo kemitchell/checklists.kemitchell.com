@@ -1,7 +1,7 @@
 ---
-title: Software Support Agreement
+title: software support agreement
 ---
-(Work in Progress)
+(work in progress)
 
 ## scope
 - software covered
