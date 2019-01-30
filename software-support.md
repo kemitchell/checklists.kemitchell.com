@@ -2,34 +2,42 @@
 title: Software Support Agreement
 ---
 (Work in Progress)
+
+## scope
 - software covered
 - versions covered
+
+## availability
 - business hours
 - holidays
+
+## access
 - who can send requests
-- pricing, e.g. number of users
-- co-termination with license
 - channels, e.g. e-mail, ticket system, phone
-- service levels
-  - response times
-  - resolution times
-  - escalation times
-  - repeat breach termination right
-    - refunds
-  - severity classes
-    - who classifies?
-    - can support reclassify?
+- language(s)
+
+## service levels
+- response times
+- resolution times
+- escalation times
+- repeat breach termination right
+  - refunds
+- severity classes
+  - who classifies?
+  - can support reclassify?
 - escalation process
 - credits
   - schedule
   - application to next bill
   - refunds
-- language(s)
-- support tech qualifications
-- dedicated personnel?
-  - what does that mean?
+
+## personnel
+- qualifications
+  - background checks
+  - technical acumen
+- dedicated? what does that mean?
+
+## other
 - nondisclosure
-  - flow-down to personnel
-  - support tech qualifications
-    - background checks
-    - technical acumen
+- pricing, e.g. number of users
+- co-termination with license
