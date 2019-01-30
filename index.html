@@ -1,0 +1,11 @@
+---
+title: checklists
+layout: default
+---
+<ul>
+{% for page in site.pages %}
+  <li>
+    <a href="{{ page.url }}">{{ page.title | smartify }}</a>
+  </li>
+{% endfor %}
+</ul>
